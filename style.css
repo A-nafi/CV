@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#E8EACE  ;
+}
+.profile-img{
+   
+    width: 40%;
+    float: right;
+   
+}
+.profile-img img{
+    width: 100%;
+    height: 650px;
+}
+.profile-info {
+    margin: 10px 0 0 10px;
+    overflow: scroll;
+    overflow-x: hidden;
+    
+    
+}
+.profile-info h1{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.about{
+    padding-top: 20px;
+    padding-left: 40px;
+    
+}   
+.social-media{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 10px;
+    padding: 20px;
+    
+}
+.social-media img{
+    height: 30px;
+    width: 30px;
+    
+}
+.profile-info h3{
+   text-align: center;
+}
+.expertise{
+  box-sizing: border-box;
+
+
+}
+.card{
+    margin: 10px 20px;
+    max-width:200px;
+    box-shadow: 5px 10px 8px 10px #888888;
+    padding: 20px;
+    display: inline-block;
+   
+   }
+
+.card img{
+    height: 50px;
+    width: 50px;
+    margin-left:60px;
+   
+}
+.card p{
+    margin: 5px 0 5px 0;
+}
+.projects{
+   margin:10px 20px;
+  
+}
+.projects img{
+    width: 220px;
+    height: 220px;
+    padding: 20px;
+}
+
+.form-box h2{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.form-box{
+    margin-top: 30px;
+}
+.form-box input{
+    width: 45%;
+   outline: none;
+   border: 0;
+   background:#fff ;
+   padding: 10px;
+   margin: 2%;
+   display: inline-block;
+
+}
+.text-area textarea{
+    width: 95%;
+    outline: none;
+    border: 0;
+    background:#fff ;
+    padding: 10px;
+    margin: 2%;
+ 
+}
+.submit-btn{
+   
+    outline: none;
+    border: 0;
+    background:#fff ;
+    padding: 10px 20px;
+    margin: 2%;
+    background: #2ab0ff;
+    cursor: pointer;
+
+}
+
+#contact-img{
+    height: 20px;
+    width: 20px;
+    margin: -5px 10px;
+}
+.contact span{
+    margin: 3%;
+}
+.contact{
+    margin:5% 0 5% 25%;
+    width: 65%;
+}
+
+
+
+
+
+
+
+
+
+
+

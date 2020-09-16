@@ -1,0 +1,18 @@
+.profile-info{
+    width: 100%;
+    overflow: inherit;
+}
+.profile-img{
+  width: 100%;
+}
+.expertise{
+    width: 95%;
+}
+.card{
+    width: 95%;
+    margin-bottom: 10%;
+}
+.card img{
+    height:8%;
+    margin: 10px 0;
+}
